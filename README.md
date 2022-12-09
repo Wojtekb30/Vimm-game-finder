@@ -12,3 +12,5 @@ Prosty program w Pythonie do wyszukiwania gry na Vimm's Lair i otwierania jej st
 Pewnego dnia może dodam pobieranie, a nawet uruchamianie wybranej gry.
 
 Jak używać: pobierz i uruchom plik Pythona, następnie postępuj zgodnie z instrukcjami wyświetlanymi w oknie terminala. Nawigacja odbywa się poprzez wpisywanie liczb.
+
+![image](https://user-images.githubusercontent.com/112283903/206801254-98a43181-31c8-48a8-ae26-e656ce1cf731.png)
